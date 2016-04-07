@@ -1,0 +1,7 @@
+[Bb]in/
+[Pp]ackages/
+[Oo]bj/
+[Dd]ebug/
+.vs/
+*.dll
+*.pdb
