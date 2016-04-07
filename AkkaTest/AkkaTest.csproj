@@ -48,6 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Greet.cs" />
+    <Compile Include="GreetingActor.cs" />
+    <Compile Include="GreetingActorChild.cs" />
+    <Compile Include="GreetingActorParent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
